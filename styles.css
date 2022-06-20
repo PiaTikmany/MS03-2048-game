@@ -12,7 +12,7 @@ hr {
     width: 400px;
     height: 400px;
     background-color: #cdc1b5;
-    border: 6px solid #bcad9f ;
+    border: 5px solid #bcad9f ;
     margin: 0 auto;
     display: flex; /* makes it flexible and responsive */
     flex-wrap: wrap; /* makes sure there are 4 tiles in each row */
