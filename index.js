@@ -30,7 +30,7 @@ function setGame() {
     setTwo()
 }
 
-
+//to start off the game:
 
 function setTwo() { 
     if (!hasEmptyTile()) { //if there are no empty tiles, break out of setTwo()
@@ -51,10 +51,6 @@ function setTwo() {
         }
     }
 }
-
-//to start off the game:
-
-
 
 function hasEmptyTile() {
     let count = 0;
